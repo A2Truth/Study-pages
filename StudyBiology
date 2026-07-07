@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta content="StudyBiology" property="og:title" />
+    <meta property="og:type" content="website" />
+    <meta 
+      name="description"
+      content="A plethera of study materials for students including games and videos."
+    />
+    <!-- TODO: add content= property=og:image -->
+    <title>StudyBiology</title>
+  </head>
+
+
+  <body>
+  <main>
+    <h1>Study page</h1>
+    <section>
+    <h2>Strengthen your skills</h2>
+      <h3>Games</h3>
+      <h3>Interactives</h3>
+    </section>
+    <section>
+    <h2>Topic 1 videos</h2>
+      <iframe width="400" height="200" src="" title="" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h2>Topic 2 videos</h2>
+      <iframe width="400" height="200" src="" title="" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </section>
+    <section>
+    <h2>Things to remember</h2>
+    </section>
+      <ul>
+        <li></li>
+      </ul>
+    </main>
+
+  
+  <footer>
+  </footer>
+  </body>
+</html>
